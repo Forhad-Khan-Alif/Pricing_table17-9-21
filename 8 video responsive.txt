@@ -1,0 +1,5 @@
+Ati bootstrap webstie e ase:  <meta name="viewport" content="width=device-width, initial-scale=1"> 17-9-21
+
+
+17-9-21 Now Google Search Engine Use This Code: <meta name="viewport" content="width=device-width", initial-scale=1, shrink-to-fit=no">
+ 17-9-21 Course er code ti hossenakeno bujhlam na: <meta name="viewport" content="width=device-width", initial-scale=1, shrink-to-fit=no">

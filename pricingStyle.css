@@ -1,0 +1,18 @@
+#header{
+  margin-top: 50px;
+  text-align: center;
+}
+
+h5, div.card-body, div.card-title, div.card-text, div.btn btn-primary {
+  text-align: center;
+}
+
+
+/* hr.half-width{
+  width:50%;
+  margin: 0 auto;
+} */
+
+/* div.card{
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+} */
